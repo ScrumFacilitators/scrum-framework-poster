@@ -8,5 +8,5 @@ In collaboration with Yellow Intelligent, we provide you the Miro template inclu
 #Special Design Thanks
 Special thanks to our designer Jenny Yung. The poster came to life in close collaboration with the entire crew, but wouldn't be what it is without Jenny's illustrations, ideas and flexibility.
 
-#License
+# License
 All versions of the [Scrum Framework poster](https://github.com/ScrumFacilitators/scrum-framework-poster/releases/latest) © 2021 by [Scrum Facilitators](https://www.scrumfacilitators.nl/products/) & Jenny Yung is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
